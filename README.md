@@ -31,6 +31,10 @@ pillow:
 ```shell
 $ python3 -m pip install --upgrade Pillow
 ```
+matplotlib:
+```shell
+$ pip install matplotlib
+```
 update:
 ```shell
 $ python3 -m pip install --upgrade pip
