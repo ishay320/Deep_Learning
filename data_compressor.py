@@ -9,7 +9,7 @@ RATIO = SIZE_X / SIZE_Y
 
 file_array = glob.glob("./data/*.jpg")
 for pos in file_array:
-    saving_pos = './data/compressed_data/'+pos.split("\\", 2)[1]
+    saving_pos = './data/train/'+pos.split("\\", 2)[1]
 
     image = np.array(Image.open(pos))
 
