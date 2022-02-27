@@ -1,4 +1,4 @@
-# Deep Learning Class
+# machine learning
 - TensorFlow v1
 - logistic regression
 - linear regression
