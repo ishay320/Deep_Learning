@@ -1,10 +1,18 @@
 # machine learning
+
+## deep learning
 - TensorFlow v1
 - logistic regression
 - linear regression
 - softmax
 - neural network
 
+## machine learning in python
+- [ ] linear
+- [ ] logistic
+- [ ] more...
+
+# installation
 ## venv
 ```shell
 $ python -m venv --system-site-packages .\venv
@@ -29,14 +37,19 @@ $ pip install --upgrade tensorflow
 ```
 pillow:
 ```shell
-$ python3 -m pip install --upgrade Pillow
+$ pip install --upgrade Pillow
 ```
 matplotlib:
 ```shell
 $ pip install matplotlib
 ```
+numpy:
+```shell
+$ pip install numpy
+```
+
 update:
 ```shell
-$ python3 -m pip install --upgrade pip
+$ pip install --upgrade pip
 ```
-if not installing type without the `python3 -m `
+if not installing type with `python -m `
